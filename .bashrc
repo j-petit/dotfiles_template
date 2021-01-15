@@ -5,6 +5,7 @@
 bind TAB:menu-complete
 alias v='vim'
 alias gst='git status'
+alias sq-'squeue -u $USER | less'
 
 # If not running interactively, don't do anything
 case $- in
