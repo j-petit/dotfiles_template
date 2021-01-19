@@ -2,6 +2,7 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
+alias gco="git checkout"
 bind TAB:menu-complete
 alias ..="cd .."
 
